@@ -24,7 +24,8 @@ confetti: ^0.5.4+1
 
 ## Sample Results
 
-<img src="https://user-images.githubusercontent.com/58719230/89190315-e9b9ec80-d5be-11ea-86bb-4ccafd611832.png" width="250" height="450"> <img src="https://user-images.githubusercontent.com/58719230/89190356-f9393580-d5be-11ea-8063-5aba7ea12a15.png" width="250" height="450">
+
+<img src="https://user-images.githubusercontent.com/58719230/90594463-1baa9000-e208-11ea-8c8a-ad64155038bd.png" width="250" height="450"> <img src="https://user-images.githubusercontent.com/58719230/90594485-29601580-e208-11ea-83c4-79c9c425ea9f.png" width="250" height="450">
 
 ## License 
 ```
