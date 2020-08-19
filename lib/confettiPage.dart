@@ -43,7 +43,7 @@ class _ConfettiPageState extends State<ConfettiPage> {
           FlatButton(
             shape: RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(12.5),
-              side: BorderSide(color: Colors.indigo),
+              side: BorderSide(color: Colors.indigo, width: 1.75),
             ),
             color: Colors.blue,
             onPressed: () {
