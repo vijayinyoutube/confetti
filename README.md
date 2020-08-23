@@ -13,6 +13,8 @@ Confetti animation in flutter app | Open source
 
 This app makes use of confetti dependency to apply animations over flutter widgets.
 
+* Check out the video tutorial 👉: https://youtu.be/GP2vguH2KEk
+
 * Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
 
 
