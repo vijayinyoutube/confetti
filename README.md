@@ -20,7 +20,7 @@ This app makes use of confetti dependency to apply animations over flutter widge
 
 ## Dependencies
 
-```
+```pubspec.yaml
 confetti: ^0.5.4+1
 ```
 
